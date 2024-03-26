@@ -1,0 +1,27 @@
+ .baseDiv {
+  display: flex;
+}
+
+.leftDiv {
+  flex: 1;
+  margin-left: 60px;
+}
+
+.rightDiv {
+  flex: 1;
+  margin-right: 700px;
+}
+.emptyDiv{
+  margin: 30px;
+} 
+.buttonCSS {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.buttonCSS:hover {
+  background-color: #45a049;
+}

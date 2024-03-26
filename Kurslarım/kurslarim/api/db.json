@@ -1,0 +1,40 @@
+{
+    "courses": [
+        {
+            "id": 1,
+            "content": "Bu kapsamlı web geliştirme kursunda, HTML, CSS, JavaScript ve duyarlı tasarım prensiplerini öğreneceksiniz. Kursun sonunda görsel olarak etkileyici ve etkileşimli web siteleri oluşturabileceksiniz.",
+            "title": "Web Geliştirme",
+            "price": 49.99
+        },
+        {
+            "id": 2,
+            "content": "Bu başlangıç seviyesi Python programlama kursunda, Python dilini kullanarak programlamanın temellerini öğreneceksiniz. Değişkenler, veri tipleri, kontrol akışı ve basit Python programları yazma konularında bilgi sahibi olacaksınız.",
+            "title": "Python Programlama",
+            "price": 59.99
+        },
+        {
+            "id": 3,
+            "content": "Bu giriş seviyesi veri bilimi kursunda, veri bilimine giriş yapacaksınız. Veri analizi, makine öğrenimi ve veri görselleştirme konularında temel bilgileri öğreneceksiniz.",
+            "title": "Veri Bilimi",
+            "price": 79.99
+        },
+        {
+            "id": 4,
+            "content": "Bu React Native mobil uygulama geliştirme kursunda, React Native kullanarak mobil uygulamaları nasıl oluşturacağınızı öğreneceksiniz. Kurs sonunda, iOS ve Android için kullanılabilen mobil uygulamalar geliştirebileceksiniz.",
+            "title": "React Native Geliştirme",
+            "price": 69.99
+        },
+        {
+            "id": 5,
+            "content": "Bu makine öğrenimi temelleri kursunda, makine öğrenimi kavramlarını öğreneceksiniz. Denetimli ve denetimsiz öğrenme, örüntü tanıma ve model değerlendirme gibi konuları kapsayan bir giriş yapacaksınız.",
+            "title": "Makine Öğrenimi",
+            "price": 89.99
+        },
+        {
+            "id": 6,
+            "content": "Bu dijital pazarlamaya giriş kursunda, dijital pazarlamanın temel prensiplerini öğreneceksiniz. Arama motoru optimizasyonu, sosyal medya pazarlaması ve dijital reklamcılık gibi konuları kapsayan bir genel bakış elde edeceksiniz.",
+            "title": "Dijital Pazarlama",
+            "price": 39.99
+        }
+    ]
+}
